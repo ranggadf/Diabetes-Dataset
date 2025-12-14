@@ -194,13 +194,3 @@ jupyter notebook
 Lihat `requirements.txt` untuk detail.
 
 ---
-
-## 👨‍💻 Author
-
-**[Nama Anda]**
-- NIM: [NIM Anda]
-- Email: [email@example.com]
-
----
-
-⭐ **Jika bermanfaat, berikan star di GitHub!**
