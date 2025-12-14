@@ -1,0 +1,29 @@
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Model files
+models/
+*.pkl
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
